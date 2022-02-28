@@ -8,11 +8,11 @@ const fishCollection = [
     name: "Frodo"
   },
   {
-    species: "Sword Fish",
+    species: "Sword Tail",
     length: 2.5,
     location: "Florida",
     saltwater: true,
-    image: "/images/swordFish.jpg",
+    image: "images/swordFish.jpg",
     name: "Sharpy"
   },
   {
